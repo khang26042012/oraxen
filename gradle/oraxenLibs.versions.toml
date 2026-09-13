@@ -184,6 +184,5 @@ plugins = [
     "ecoitems",         # EcoÍtems
     "blocklocker",      # BlockLocker
     "skript",           # Skript
-    "iris",             # Iris World Generator
     "score",            # ExecutableItems (SCore)
 ]
